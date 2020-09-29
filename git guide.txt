@@ -1,0 +1,11 @@
+1) cartella Git GitFPSprojectDalpaosPisano
+2) metti le cose nuove dentro
+3) tasto dx nel bianco -> TortoiseGit -> Add
+	ora ti dovrebbe uscire una finestra di dialogo con tutte le cose che hai messo nuove e clicchi ADD
+3bis) aggiungi messaggio con data modificihe -> COMMIT
+3tris) PUSH -> Close
+4) tasto dx nel bianco -> TortoiseGit -> Switch -> Branch: master -> OK -> Close
+5) tasto dx nel bianco -> TortoiseGit -> Pull -> Ok -> Close
+6) tasto dx nel bianco -> TortoiseGit -> Merge -> Branch: Dando -> OK -> Close
+7) tasto dx nel bianco -> TortoiseGit -> Push -> OK -> Close
+8) tasto dx nel bianco -> TortoiseGit -> Switch -> Branch: Dando -> OK -> Close
